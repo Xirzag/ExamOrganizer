@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exam</string>
+    <string name="action_settings">Borrar Examenes</string>
+    <string name="exam_title">Examen:</string>
+    <string name="exam_days">Quedan:</string>
+    <string name="exam_daysTopic">Dias por tema:</string>
+    <string name="menu_save">Guardar...</string>
+    <string name="menu_add">Nuevo exámen</string>
+    <string name="title_activity_add_exam">Añadir examen</string>
+    <string name="add_exam_name">Nombre de la asignatura</string>
+    <string name="add_topic">Número de temas</string>
+    <string name="add_date">Fecha (dd/mm/yyyy)</string>
+    <string name="add_button">Añadir</string>
+
+</resources>

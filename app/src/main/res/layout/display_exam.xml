@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEDED"
+    android:padding="5dp">
+
+    <TableRow>
+        <TextView android:text="@string/exam_title"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:paddingRight="15dp" />
+        <TextView android:text="cargando..."
+            android:id="@+id/info"
+            android:textSize="15dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="@string/exam_days"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:paddingRight="15dp" />
+        <TextView android:text="dias..."
+            android:textSize="15dp"
+            android:id="@+id/daysForExam" />
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="@string/exam_daysTopic"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:paddingRight="15dp" />
+        <TextView android:text="dias..."
+            android:id="@+id/daysForTopic"
+            android:textSize="15dp"/>
+    </TableRow>
+</TableLayout>

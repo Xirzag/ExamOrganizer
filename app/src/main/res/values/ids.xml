@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ec" type="id">ec</item>
+    <item name="me" type="id">me</item>
+    <item name="mainLayout" type="id">mainLayout</item>
+</resources>
