@@ -11,5 +11,3 @@ Para indicar que has aprendido un tema o si quieres borrar un exámen, pulsa un 
 Para resetear la aplicación, ve a los puntos de la barra, y pulsa en borrar examenes.
 
 Puedes usar el código a tu antojo, aunque no me hago cargo de los bugs que pueda tener :P
-
-http://ftvpe.ml
